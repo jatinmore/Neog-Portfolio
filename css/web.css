@@ -10,7 +10,7 @@ body{
     background-color: black;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
 
 }
 
@@ -34,6 +34,7 @@ body{
 {
     margin: 1vw 15vw;
    text-align: center;
+   padding: 5rem;
 
 }
 
@@ -102,7 +103,7 @@ body{
 #sec-3
 {   
     margin-top: 100px;
-    padding: 1rem;
+    padding: 8rem;
     text-align: center;
 }
 .blog
